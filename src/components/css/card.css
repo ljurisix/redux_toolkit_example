@@ -1,0 +1,19 @@
+.storybook-card {
+  border: 1px solid rgb(212, 212, 212);
+  border-radius: 10px;
+  background-color: rgb(248, 252, 255);
+  box-shadow: rgba(3, 0, 96, 0.178) 0px 2px 2px 0px;
+  padding: 0;
+  width: 500px;
+  margin: 1em 0 1em 0;
+}
+
+.storybook-card-titleSection {
+  color: rgb(12, 87, 130);
+  border-bottom: 1px solid rgb(212, 212, 212);
+  padding: 1em;
+}
+
+.storybook-card-childSection {
+  padding: 1em;
+}
